@@ -1,0 +1,11 @@
+tkinter
+customtkinter
+pandas
+numpy
+pickle-mixin
+mediapipe
+opencv-python
+Pillow
+flask
+flask-cors
+scikit-learn
